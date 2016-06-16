@@ -1,8 +1,5 @@
-#Custom Parts
-This folder conraints custom parts. Those parts improve some issues of the laser cut parts.
+#Current Case Parts
+This folder contains parts for the current case parts.
 
-## Files
-turntable - turntable related parts<br>
-camera - camera related parts<br>
-laser - laser related parts<br>
-altparts3D - parts improved by zogtrog
+<img width="300" src="doc/images/FabScanPI_closed.jpg">
+<img width="350" src="doc/images/FabScanPi_opened.jpg">
