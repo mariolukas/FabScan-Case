@@ -1,9 +1,16 @@
 #FabScan-Case
 This repository includes all FabScan case files
 
+### FabScan Pi (2016)
+
+<img width="500" src="doc/images/FabScanPI_closed.jpg">
+<img width="500" src="doc/images/FabScanPI_opnened.jpg">
+
+##FabScan History
+
+### FabScan 100 (2009 - 2010)
+<img width="500" src="doc/images/FabScan100.png">
+<br>
+### FabScan CUBE (20012 - 2016)
 <img width="500" src="doc/images/FabScanCube.jpg">
 
-
-## Files
-CUBE - contains all FabScan CUBE case parts<br>
-Improvements - contains turntable mount (www.thingiverse.com/thing:218843) improvement and fabscanpi camera mount<br>

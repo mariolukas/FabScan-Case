@@ -1,0 +1,36 @@
+To make use of these files you will need a 3D printer.
+
+I printed the parts in RED ABS from ridgid ink at 235 deg C, with a bedtemp 110 deg C.
+
+The dimensions are slightly larger than the measured dimensions because ABS shrinks as it cools.
+
+The original laser for use with the fabscan is a class IIIa laser line. This laser is too powerfull
+to use safely without risking damaging someones eyesight.
+
+I substituted the laser in the original kit for this one
+
+
+Line laser, red, 650nm, 90°, 5mW, Ø9x20mm, Laser Class 1, Focus fixed (1000mm), 
+Cable length 100mm - 70104011
+by Laserfuchs
+
+sold on
+
+https://www.amazon.co.uk/gp/product/B0081S13FE/
+
+This is a class 1 laser line and is therefore safe to use in a homemade consumer product without
+the risk of damaging sight permanetly and irrevesibly.
+
+However the laser doesn't fit into the original turret so I designed and printed a new turret to
+fit the laser on my 3D printer.
+
+My turntable was also wobbly so I designed a 3D printed collar to make the turntable more stable.
+I glued the turntable to the motor and turntable mount using slow setting epoxy resin.
+
+You will note that I have built my fabscan back to front by accident, this was done by having the
+base plate upside down when I began the build. 
+
+You can generate new STL files by modifying the included OpenScad scripts if you bought a
+different laser or motor.
+
+Jack Taylor
