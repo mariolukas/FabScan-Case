@@ -4,7 +4,7 @@ This repository includes all FabScan case files
 ### FabScan Pi (2016)
 
 <img width="300" src="doc/images/FabScanPI_closed.jpg">
-<img width="300" src="doc/images/FabScanPi_opened.jpg">
+<img width="400" src="doc/images/FabScanPi_opened.jpg">
 
 ##FabScan History
 
