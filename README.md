@@ -1,14 +1,14 @@
 #FabScan-Case
 This repository includes all FabScan case files
 
-### FabScan Pi (2016)
+### FabScan Pi (2016 - now)
 
 <img width="300" src="doc/images/FabScanPI_closed.jpg">
 <img width="350" src="doc/images/FabScanPi_opened.jpg">
 
 ##FabScan History
 
-### FabScan CUBE (20012 - 2016)
+### FabScan CUBE (2012 - 2016)
 <img width="300" src="doc/images/FabScanCube.jpg">
 
 
